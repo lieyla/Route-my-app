@@ -1,0 +1,9 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+}
+.nav h1{
+    border: solid 2px black;
+    font-size: 25px;
+
+}
